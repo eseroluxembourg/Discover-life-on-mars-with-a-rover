@@ -1,4 +1,4 @@
-# Discover-life-on-mars-with-a-rover
+# Discover life on mars with a rover
 
 We use robots in space. Robotic cars, for example, go on missions to Mars; we call them Mars rovers, 
 and they have names like Opportunity and Curiosity. 
